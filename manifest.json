@@ -1,6 +1,6 @@
 {
-    "name": "To-Do PWA",
-    "short_name": "To-Do",
+    "name": "All-In-One PWA",
+    "short_name": "All In One",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#f4f4f4",
